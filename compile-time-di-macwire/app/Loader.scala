@@ -3,9 +3,6 @@ package com.lucidchart
 import com.softwaremill.macwire._
 import play.api._
 import play.api.ApplicationLoader.Context
-import play.api.http._
-import play.api.libs.streams._
-import play.api.mvc._
 import play.api.routing.Router
 import router.Routes
 
